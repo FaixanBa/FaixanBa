@@ -1,4 +1,4 @@
-## Hi there 👋 I am a
+## Hi there 👋 
 # **Test Developer Engineer – Automotive Radar ADAS Systems**  
 
 ## 🚗 **Introduction**  
