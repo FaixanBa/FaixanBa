@@ -10,11 +10,6 @@ I work at the intersection of **embedded systems, robotic automation, and cloud-
 ## 🔹 **Technical Expertise**  
 
 ### 🛠 **Automotive Radar (77GHz) Functional Testing & Validation**  
-- **Radar Signal Processing & Validation**  
-  - **77GHz FMCW (Frequency Modulated Continuous Wave) radar testing**.  
-  - **Time-Frequency analysis using FFT, STFT, and wavelet transforms**.  
-  - **Multi-object detection validation, Doppler velocity extraction, and range resolution testing**.  
-  - **Antenna calibration and beamforming optimization**.  
 
 - **Radar Software Flashing & Debugging**  
   - **Bootloader programming and firmware flashing** over **CAN, SPI, and Ethernet**.  
